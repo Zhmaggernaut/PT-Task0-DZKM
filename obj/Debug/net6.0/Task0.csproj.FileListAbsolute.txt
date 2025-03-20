@@ -1,0 +1,6 @@
+C:\Users\zhuma\Downloads\PT-Task0-DZKM\obj\Debug\net6.0\Task0.csproj.AssemblyReference.cache
+C:\Users\zhuma\Downloads\PT-Task0-DZKM\obj\Debug\net6.0\Task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhuma\Downloads\PT-Task0-DZKM\obj\Debug\net6.0\Task0.AssemblyInfoInputs.cache
+C:\Users\zhuma\Downloads\PT-Task0-DZKM\obj\Debug\net6.0\Task0.AssemblyInfo.cs
+C:\Users\zhuma\Downloads\PT-Task0-DZKM\obj\Debug\net6.0\Task0.csproj.CoreCompileInputs.cache
+C:\Users\zhuma\Downloads\PT-Task0-DZKM\obj\Debug\net6.0\Task0.sourcelink.json
